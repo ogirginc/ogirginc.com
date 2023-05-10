@@ -128,10 +128,10 @@ export const BlogSEO = ({
     publisher: {
       '@type': 'Organization',
       name: siteMetadata.author,
-      logo: {
-        '@type': 'ImageObject',
-        url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
-      },
+      // logo: {
+      //   '@type': 'ImageObject',
+      //   url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
+      // },
     },
     description: summary,
   }
