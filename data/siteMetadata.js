@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "Oğulcan's Blog",
   author: 'Oğulcan Girginç',
-  headerTitle: "Oğulcan's Blog",
+  headerTitle: 'ogirginc 👋',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
